@@ -1,10 +1,10 @@
-package com.simplilearn.method;
+package com.simplilearn.constructor;
 
-public class calculator {
+public class StudentDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hello");
+
 	}
 
 }
